@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, Saya Alam!</h1>
-<h3 align="center">Seorang Full-Stack Developer dari Indonesia yang bersemangat membangun aplikasi web yang bermanfaat.</h3>
+### Hey, I'm Alam 👋
 
-- 🔭 Saat ini saya sedang mengerjakan **ntah, random aja kalo lagi mood**.
-- 🌱 Saya sedang mendalami **TypeScript** dan **Next.js**.
+Network Engineering student at an aviation vocational school in Makassar, Indonesia.
+I mess around with Linux, Mikrotik, and self-hosting stuff — occasionally write code too.
+
+**Currently learning:**
+- TypeScript & Node.js (properly, not just copy-paste)
+- Cisco networking & subnetting
+- How open source actually works (by contributing to it)
+
+**Some things I've built:**
+- [`kujira-bot`](https://github.com/Muhammad-Nur-Alamsyah-Anwar/kujira-bot) — Discord bot with moderation, music & economy
+- [`tkj-web-id`](https://github.com/Muhammad-Nur-Alamsyah-Anwar/tkj-web-id) — TKJ survival guide: Mikrotik configs, Linux commands, Cisco labs
+- [`hotspot_smkpttm`](https://github.com/Muhammad-Nur-Alamsyah-Anwar/hotspot_smkpttm) — custom MikroTik hotspot login page, actually deployed at my school
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Nur-Alamsyah-Anwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
