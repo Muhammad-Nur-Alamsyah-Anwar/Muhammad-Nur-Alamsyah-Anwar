@@ -15,4 +15,4 @@ I mess around with Linux, Mikrotik, and self-hosting stuff — occasionally writ
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Nur-Alamsyah-Anwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Nur-Alamsyah-Anwar&theme=tokyonight&hide_border=true)
